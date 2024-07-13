@@ -1,0 +1,97 @@
+body{
+    background-color: rgba(38, 175, 25, 0.137);
+}
+header{
+    background-color: white;
+    height: 85px;
+}
+.searchbar input{
+    margin-left: 200px;
+    width: 500px;
+    height: 35px;
+    background-color: rgba(186, 238, 220, 0.267);
+    border: 5px;
+    border-radius: 5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+.searchbar{
+    margin-top: -35px;
+}
+button img{
+    height: 15px;
+    width: 15px;
+}
+button{
+    margin-left: 750px;
+    background-color: white;
+    border: white;
+}
+button a {
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+
+}
+.middle{
+    background-color: white;
+    height: 115px;
+}
+.headpic img{
+    height: 70px;
+    width: 70px;
+    margin: 30px;
+    margin-top: 10px;
+}
+
+.middlee img{
+    margin-left: 250px;
+    margin-top: -350px;
+}
+.middlleee{
+    background-color: white;
+}
+.best{
+    margin-top: 250px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 600;
+}
+.namepic{
+    margin-top: 10px;
+}
+footer{
+    background-color: white;
+    height: 300px;
+    width: 1340x;
+}
+.beautytoys{
+    font-weight: 600;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 30px;
+}
+.abcd{
+    background-color: white;
+    height: 300px;
+    width: 1340px;
+}
+.sports{
+    font-weight: 600;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 30px;
+    height: 300px;
+    width: 1340px;
+    background-color: white;
+}
+.head{
+    margin-top: 10px;
+    font-size: 14px;
+    font-weight: 625;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.most{
+    margin-top: 5px;
+    font-size: 12px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
